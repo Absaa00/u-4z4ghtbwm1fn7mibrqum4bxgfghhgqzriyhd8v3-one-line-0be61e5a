@@ -1,0 +1,21 @@
+# One Line, One Laugh — build ignores for this entry (2026-11-25)
+# Byte-unique ignore set for the screen-time custody one-liner.
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.output/
+output/
+bundle.tar.gz
+*.tar.gz
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*~
+.env
+.venv/
+venv/
+kit/
+kit.zip
